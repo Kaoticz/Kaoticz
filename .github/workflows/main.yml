@@ -58,7 +58,7 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: organization
           plugin_notable_types: commit
-          plugin_sponsors: yes
+          plugin_sponsors: no
           plugin_sponsors_sections: goal
           plugin_sponsors_size: 24
           plugin_traffic: yes
