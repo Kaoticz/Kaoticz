@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -84,7 +84,7 @@ Owner of @Akko-Bot and @Miaumarro</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1489 Commits
+                            1490 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -192,7 +192,7 @@ Owner of @Akko-Bot and @Miaumarro</div>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    63.1k added, 34.9k removed
+                                    68.9k added, 35.6k removed
                                 </div>
                             </section>
                             <section>
@@ -348,14 +348,14 @@ Owner of @Akko-Bot and @Miaumarro</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="352.0877513040156" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="352.0877513040156" y="0" width="54.38435364786532" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="406.4721049518809" y="0" width="28.679851551180057" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="435.151956503061" y="0" width="14.403622965356101" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="449.55557946841714" y="0" width="5.443807416935478" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="454.9993868853526" y="0" width="3.624984046506623" height="8" fill="#355570"/>
-                    <rect mask="url(#languages-bar)" x="458.6243709318592" y="0" width="1.1158519749382088" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="459.7402229067974" y="0" width="0.2597770932026023" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="352.0516298001535" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="352.0516298001535" y="0" width="54.37877423014046" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="406.4304040302939" y="0" width="28.67690921829647" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="435.1073132485904" y="0" width="14.395239048476965" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="449.5025522970674" y="0" width="5.443248924031629" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="454.94580122109903" y="0" width="3.6246121509358424" height="8" fill="#355570"/>
+                    <rect mask="url(#languages-bar)" x="458.57041337203486" y="0" width="1.1157374970807061" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="459.6861508691156" y="0" width="0.3138491308844627" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -368,7 +368,7 @@ Owner of @Akko-Bot and @Miaumarro</div>
                             </div>
                             <small>
                                 <div>917 kB</div>
-                                <div>76.54%</div>
+                                <div>76.53%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -448,13 +448,13 @@ Owner of @Akko-Bot and @Miaumarro</div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#427819" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Makefile
+                                CSS
                             </div>
                             <small>
-                                <div>677 bytes</div>
-                                <div>0.06%</div>
+                                <div>818 bytes</div>
+                                <div>0.07%</div>
                             </small>
                         </div>
                     </section>
@@ -480,7 +480,7 @@ Owner of @Akko-Bot and @Miaumarro</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Nov 2024, 03:24:03 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Nov 2024, 04:16:27 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
