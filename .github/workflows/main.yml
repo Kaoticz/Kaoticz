@@ -54,8 +54,8 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_languages_ignored: >-
-            smalltalk
-            Jupyter Notebook
+            smalltalk,
+            jupyter notebook
           plugin_lines: yes
           plugin_notable: yes
           plugin_notable_from: organization
